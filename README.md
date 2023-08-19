@@ -41,10 +41,12 @@ I am an aspiring Data Engineer :bar_chart: with a passion for transforming raw d
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache/airflow.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="80" height="80" />
+
+
 </div>
 
 ---
