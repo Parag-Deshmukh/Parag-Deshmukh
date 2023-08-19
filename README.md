@@ -12,7 +12,7 @@
 </div>>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Parag-Deshmukh&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello, I'm Parag Deshmukh!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -54,6 +54,6 @@ I am an aspiring Data Engineer :bar_chart: with a passion for transforming raw d
 <p align="center">
   <a href="#">
     <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Parag-Deshmukh&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
   </a>
 </p>
