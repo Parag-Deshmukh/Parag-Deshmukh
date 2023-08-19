@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Parag-Deshmukh&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hello, I'm Your Name!
+    Hello, I'm Parag Deshmukh!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -40,7 +40,8 @@ I am an aspiring Data Engineer :bar_chart: with a passion for transforming raw d
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache/airflow.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
 </div>
