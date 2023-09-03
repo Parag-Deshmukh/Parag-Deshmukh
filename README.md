@@ -9,12 +9,12 @@
   <a href="mailto:paragdeshmukh127@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Parag-Deshmukh&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hello, I'm   !
+    Hello, I'm Parag Deshmukh!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
