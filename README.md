@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-I am an aspiring Data Engineer :bar_chart: with a passion for transforming raw data into valuable insights. Currently honing my skills to build robust data pipelines and solutions. Here's a bit about me:
+I am an  Data Engineer :bar_chart: with a passion for transforming raw data into valuable insights. Currently honing my skills to build robust data pipelines and solutions. Here's a bit about me:
 
 - :computer: Currently focused on becoming proficient in **Data Engineering**.
 - :snake: Python enthusiast with a deep understanding of its data manipulation and analysis libraries.
