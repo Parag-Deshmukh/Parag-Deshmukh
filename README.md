@@ -35,9 +35,6 @@
 - 🏰 **Data Warehousing:** Snowflake
 
 ### Experience
-
-👨‍💼 **[Your Company] | [Start Date] - Present**
-
 - Developed and optimized ETL processes, ensuring seamless data flow and transformation.
 - Utilized cloud technologies (AWS) for scalable and secure data solutions.
 - Proficient in Apache Airflow, Pyspark, and Snowflake for cutting-edge data processing and warehousing.
