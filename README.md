@@ -21,7 +21,6 @@
 
 ---
 
-###  About Me :
 
 ## About Me
 
