@@ -54,7 +54,7 @@ Feel free to explore my repositories for projects and collaborations. Let's buil
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### : Languages and Tools :
 
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
