@@ -23,16 +23,34 @@
 
 ###  About Me :
 
-I am an  Data Engineer :bar_chart: with a passion for transforming raw data into valuable insights. Currently honing my skills to build robust data pipelines and solutions. Here's a bit about me:
+## About Me
 
-- :computer: Currently focused on becoming proficient in **Data Engineering**.
-- :snake: Python enthusiast with a deep understanding of its data manipulation and analysis libraries.
-- :floppy_disk: Proficient in **SQL** for querying and managing databases.
-- :cloud: Excited about **Apache Airflow** for orchestrating data workflows.
-- :cloud: Familiar with **Amazon Web Services (AWS)** for cloud-based solutions.
-- :fire: Learning **PySpark** for big data processing and analysis.
-- :snowflake: Exploring **Snowflake** for cloud-based data warehousing.
-- :books: Constantly learning and improving my skills in the ever-evolving data ecosystem.
+🚀 Hi there! I'm Parag Deshmukh, a passionate Data Engineer with over 1 year of hands-on experience. My expertise lies in designing, developing, and optimizing end-to-end data solutions, with a focus on ETL processes, transformation, and integration.
+
+### Skills
+
+- 💻 **Programming:** Python
+- 📊 **Data Processing:** Pandas, SQL
+- ☁️ **Cloud Technologies:** AWS
+- 🛠️ **Data Tools:** Apache Airflow, Pyspark
+- 🏰 **Data Warehousing:** Snowflake
+
+### Experience
+
+👨‍💼 **[Your Company] | [Start Date] - Present**
+
+- Developed and optimized ETL processes, ensuring seamless data flow and transformation.
+- Utilized cloud technologies (AWS) for scalable and secure data solutions.
+- Proficient in Apache Airflow, Pyspark, and Snowflake for cutting-edge data processing and warehousing.
+
+### Interests
+
+🔍 Always eager to stay at the forefront of industry trends and dedicated to driving innovation and efficiency in data engineering to empower organizations with actionable insights.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/paragd127/)!
+
+Feel free to explore my repositories for projects and collaborations. Let's build something amazing together! 🚀
+
 
 ---
 
